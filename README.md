@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fec124
 - 👀 I’m interested in Redstone
-- 🌱 I’m currently learning Redstone
+- 🌱 I’m currently learning Programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Fec
